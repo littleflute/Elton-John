@@ -189,9 +189,10 @@ cite{ display:block; }
 
 <div class="page-info clearfix">
   <h1>
-    <a href="https://github.com/littleflute/blMp3Player/images/edit/master/index.html" target="_blank">v0.0.6</a>
+    <a href="https://github.com/littleflute/blMp3Player/images/edit/master/index.html" target="_blank">v0.0.7</a>
     <a href="https://github.com/littleflute/blMp3Player/images" title="回到 PrjPage 首页">PrjPage</a> 
     <a href="https://littleflute.github.io/blog">blog</a>
+    <a href="player.html">player</a>
   </h1>
 </div>
   <div id="xddbg" style="border:1px red solid;width:500px;height:50px;"></div>
