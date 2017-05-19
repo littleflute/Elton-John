@@ -1,12 +1,12 @@
 
 
 
+
 <!DOCTYPE>
 <html>
 <head>
 <meta charset="utf-8">
-<title>musicPlayer</title>
-<link type="text/css" rel="stylesheet" href="style/music-player.css">
+<title>musicPlayer</title> 
 <style type="text/css">
 /*Ã¥Ë†ÂÃ¥Â§â€¹Ã¥Å’â€“*/
 body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, blockquote, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
@@ -53,7 +53,7 @@ button { padding:5px 10px; overflow:visible; }
 .close-list,
 .add-favorites,
 .play-icon,
-.speaker{ background:url(../images/player_img.png); }
+.speaker{ background:url(https://littleflute.github.io/blMp3Player/images/player_img.png); }
 
 /*Ã¦â€™Â­Ã¦â€Â¾Ã¥â„¢Â¨Ã¥Â¼â‚¬Ã¥â€¦Â³*/
 .m-player-switch:hover{ background:#4b4b4b; }
@@ -65,7 +65,7 @@ button { padding:5px 10px; overflow:visible; }
 /*Ã¦â€™Â­Ã¦â€Â¾Ã¦Â­Å’Ã¦â€ºÂ²Ã¤Â¿Â¡Ã¦ÂÂ¯*/
 .m-info{ float:left; position:relative; width:200px; }
 .m-info .album-front-cover{ float:left; width:75px; height:75px; overflow:hidden; }
-.m-info .front-cover-mask{ position:absolute; left:0; width:75px; height:75px; background:url(../images/album_cover_mask.png) no-repeat; cursor:pointer; -webkit-transition-duration:300ms; -moz-transition-duration:300ms; }
+.m-info .front-cover-mask{ position:absolute; left:0; width:75px; height:75px; background:url(https://littleflute.github.io/blMp3Player/images/album_cover_mask.png) no-repeat; cursor:pointer; -webkit-transition-duration:300ms; -moz-transition-duration:300ms; }
 .m-info .front-cover-mask:hover{ opacity:0.5; }
 .m-info .info-wrap{ padding:0 5px; width:115px; overflow:hidden; cursor:default; }
 .m-info .info-wrap dt{ color:#fff; }
@@ -91,7 +91,7 @@ button { padding:5px 10px; overflow:visible; }
 .broadcast-control .broadcast-control-r{ float:left; width:5px; height:75px; }
 .broadcast-control .broadcast-control-l{ background-position:0 0; }
 .broadcast-control .broadcast-control-r{ background-position:-5px 0; }
-.broadcast-control .broadcast-control-m{ float:left; position:relative; width:320px; height:75px; background:url(../images/control_panel_bg.png) repeat-x; }
+.broadcast-control .broadcast-control-m{ float:left; position:relative; width:320px; height:75px; background:url(https://littleflute.github.io/blMp3Player/images/control_panel_bg.png) repeat-x; }
 .m-next,
 .m-prev{ position:absolute; top:23px; width:21px; height:22px; cursor:pointer; }
 .m-next{ left:197px; background-position:-28px -80px; }
@@ -208,8 +208,8 @@ cite{ display:block; }
 <body>
 <div class="page-info clearfix">
   <h1>
-    <a href="https://github.com/littleflute/blMp3Player/edit/master/index.html" target="_blank">v0.0.6</a>
-    <a href="https://github.com/littleflute/blMp3Player" title="回到 PrjPage 首页">PrjPage</a> 
+    <a href="https://github.com/littleflute/blMp3Player/images/edit/master/index.html" target="_blank">v0.0.6</a>
+    <a href="https://github.com/littleflute/blMp3Player/images" title="回到 PrjPage 首页">PrjPage</a> 
     <a href="https://littleflute.github.io/blog">blog</a>
   </h1>
 </div>
@@ -337,7 +337,7 @@ if(QueryString.l)
 }
 else
 {
-	url = "https://littleflute.github.io/blMp3Player/songList.json";
+	url = "https://littleflute.github.io/blMp3Player/images/songList.json";
 	url = "https://littleflute.github.io/Elton-John/l.json"; 
 }    
 (function(){
