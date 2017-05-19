@@ -2,7 +2,7 @@
     "songData": [
         {
             "albumName": "Elton John",
-            "albumCoverMax": "Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
+            "albumCoverMax": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
             "albumSong": [
                 {
                     "musicName": "Your Song",
@@ -26,7 +26,7 @@
                     "musicLink": "03 Heat Wave.mp3",
                     "lyricsLink": "lyrics/03.lrc",
                     "musicTime": "07:49",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
                 },
                 {
                     "musicName": "04 Hello Stranger.mp3)",
