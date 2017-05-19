@@ -2,7 +2,7 @@
     "songData": [
         {
             "albumName": "Elton John",
-            "albumCoverMax": "https://littleflute.github.io/Elton-John/index.jpg",
+            "albumCoverMax": "Elton John/Elton John [Bonus Tracks]/AlbumArt_{39FE12D6-5F10-4312-98D0-75336653E345}_Large.jpg",
             "albumSong": [
                 {
                     "musicName": "Your Song",
@@ -10,7 +10,7 @@
                     "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01 Your Song.mp3",
                     "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
                     "musicTime": "01:12",
-                    "albumCoverMin": "https://littleflute.github.io/Elton-John/index.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
                 },
                 {
                     "musicName": "I Need You to Turn To",
@@ -18,7 +18,7 @@
                     "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/02 I Need You to Turn To.mp3",
                     "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
                     "musicTime": "04:47",
-                    "albumCoverMin": "https://littleflute.github.io/Elton-John/index.jpg"
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
                 },
                 {
                     "musicName": "03 Heat Wave.mp3",
