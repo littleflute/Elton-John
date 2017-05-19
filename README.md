@@ -1,14 +1,4 @@
-
-
-
-
-<!DOCTYPE>
-<html>
-<head>
-<meta charset="utf-8">
-<title>musicPlayer</title> 
-<style type="text/css">
-/*Ã¥Ë†ÂÃ¥Â§â€¹Ã¥Å’â€“*/
+<style>
 body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, blockquote, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
 ul, ol { list-style:outside none; }
 fieldset, img { border:0; }
@@ -54,15 +44,13 @@ button { padding:5px 10px; overflow:visible; }
 .add-favorites,
 .play-icon,
 .speaker{ background:url(https://littleflute.github.io/blMp3Player/images/player_img.png); }
-
-/*Ã¦â€™Â­Ã¦â€Â¾Ã¥â„¢Â¨Ã¥Â¼â‚¬Ã¥â€¦Â³*/
+ 
 .m-player-switch:hover{ background:#4b4b4b; }
 .switch-off,
 .switch-on{ display:block; width:9px; height:18px; }
 .switch-off{ background-position:-120px 0; }
 .switch-on{ background-position:-132px 0; }
-
-/*Ã¦â€™Â­Ã¦â€Â¾Ã¦Â­Å’Ã¦â€ºÂ²Ã¤Â¿Â¡Ã¦ÂÂ¯*/
+ 
 .m-info{ float:left; position:relative; width:200px; }
 .m-info .album-front-cover{ float:left; width:75px; height:75px; overflow:hidden; }
 .m-info .front-cover-mask{ position:absolute; left:0; width:75px; height:75px; background:url(https://littleflute.github.io/blMp3Player/images/album_cover_mask.png) no-repeat; cursor:pointer; -webkit-transition-duration:300ms; -moz-transition-duration:300ms; }
@@ -84,8 +72,7 @@ button { padding:5px 10px; overflow:visible; }
 .lyrics-hover{ background-position:-58px -18px; }
 .favorites:hover,
 .favorites-hover{ background-position:-79px -18px; }
-
-/*Ã¦Å½Â§Ã¥Ë†Â¶Ã©ÂÂ¢Ã¦ÂÂ¿*/
+ 
 .broadcast-control{ float:left; width:330px; height:75px; }
 .broadcast-control .broadcast-control-l,
 .broadcast-control .broadcast-control-r{ float:left; width:5px; height:75px; }
@@ -102,8 +89,7 @@ button { padding:5px 10px; overflow:visible; }
 .m-play:hover{ background-position:-124px -81px; }
 .m-pause{ position:absolute; top:18px; left:148px; width:22px; height:34px; background-position:-85px -86px; cursor:pointer; }
 .m-pause:hover{ background-position:-63px -86px; }
-
-/*Ã¨Â¿â€ºÃ¥ÂºÂ¦Ã¦ÂÂ¡*/
+ 
 .play-progress-rate{ position:absolute; top:63px; width:320px; height:10px; }
 .play-progress-rate .progress-rate-bg{ position:absolute; top:0; left:27px; width:260px; height:5px; overflow:hidden; background:-webkit-gradient(linear,0 0,0 100%,from(#9c9d8b),to(#c0c2ae)); background:-moz-linear-gradient(center top , #9c9d8b, #c0c2ae); border:1px solid #898b7c; border-radius:6px; cursor:pointer; }
 .play-progress-rate .progress-rate-bg .progress-rate-color{ height:5px; background:-webkit-gradient(linear,0 0,0 100%,from(#8e9082),to(#4d4f42)); background:-moz-linear-gradient(center top , #8e9082, #4d4f42); background-color:#7b7d6f\9; border-radius:2px; }
@@ -111,8 +97,7 @@ button { padding:5px 10px; overflow:visible; }
 .play-progress-rate .surplus-time{ position:absolute; top:-2px; height:10px; line-height:10px; overflow:hidden; font-size:10px; color:#65675a; -webkit-text-size-adjust:none; }
 .play-progress-rate .play-time{ left:0; width:26px; text-align:right; }
 .play-progress-rate .surplus-time{ left:291px; width:29px; text-align:left; }
-
-/*Ã©Å¸Â³Ã©â€¡Â*/
+ 
 .volume-wrap,
 .play-manner-wrap{ position:absolute; top:-51px; z-index:1000; width:26px; height:75px; background:#6a6e5b; border-radius:4px; }
 .volume-wrap{ left:0; }
@@ -152,8 +137,7 @@ button { padding:5px 10px; overflow:visible; }
 .single-cycle:hover,
 .order-play:hover,
 .shuffle-play:hover{ opacity:1; }
-
-/*Ã¦â€™Â­Ã¦â€Â¾Ã¥Ë†â€”Ã¨Â¡Â¨*/
+ 
 .music-list{ position:fixed; bottom:116px; width:550px; height:470px; overflow:hidden; color:#999; }
 .music-list .list-title{ position:relative; padding:0 15px; height:50px; line-height:50px; background:#000; }
 .music-list .list-title strong{ margin-right:13px; font:normal 18px "Microsoft Yahei"; color:#fff; }
@@ -183,8 +167,7 @@ button { padding:5px 10px; overflow:visible; }
 .music-list .album .album-cover-hover .play-icon{ float:right; width:12px; height:12px; background-position:-171px -1px; margin:4px 5px 0 -2px; }
 .music-list .album .album-cover-hover .mask{ position:absolute; top:0; left:0; width:158px; height:158px; background:#000; opacity:0.2; }
 .music-list .album .playIng .speaker{ display:inline-block; margin-right:4px; width:10px; height:10px; background-position:-172px -19px; }
-
-/*Ã¦Â­Å’Ã¨Â¯Â*/
+ 
 .lrc-wrap{ position:absolute; right:-251px; padding-top:2px; width:250px; height:94px; overflow:hidden; background:#1B1B1B; border-radius:4px; box-shadow: 3px 3px 6px RGBA(0,0,0,.42); }
 .lrc-wrap .lrc-box .no-lrc,
 .lrc-wrap .load-lrc{ height:94px; line-height:94px; text-align:center; }
@@ -204,8 +187,8 @@ button { padding:5px 10px; overflow:visible; }
 .f-list a:hover{ text-decoration:underline; }
 cite{ display:block; }
 </style>
-</head>
-<body>
+
+
 <div class="page-info clearfix">
   <h1>
     <a href="https://github.com/littleflute/blMp3Player/images/edit/master/index.html" target="_blank">v0.0.6</a>
@@ -213,7 +196,7 @@ cite{ display:block; }
     <a href="https://littleflute.github.io/blog">blog</a>
   </h1>
 </div>
-  <div id="xddbg" style="border:1px red solid;width:100px;height:30px;"></div>
+  <div id="xddbg" style="border:1px red solid;width:500px;height:50px;"></div>
   
 <div class="main">
   <div class="wrap">
