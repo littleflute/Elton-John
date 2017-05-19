@@ -16,8 +16,7 @@ button { padding:5px 10px; overflow:visible; }
 .clearfix{ display:inline-block; }
 * html .clearfix{ height:1%; }
 .clearfix{ display:block; }
-
-/*Ã¦â€™Â­Ã¦â€Â¾Ã¥â„¢Â¨Ã¦Â¡â€ Ã¦Å¾Â¶*/
+ 
 .hidden{ display:none; }
 .m-player-wrap{ position:fixed; left:-550px; bottom:20px; z-index:1; width:570px; height:96px; color:#828282; font:normal 12px/1.5 Arial,Helvetica,Tahoma,"Ã¥Â®â€¹Ã¤Â½â€œ",sans-serif; }
 .m-player-wrap .m-player{ float:left; padding:10px; width:530px; height:76px; background:#000; box-shadow: 3px 3px 6px RGBA(0,0,0,.42); }
@@ -112,8 +111,7 @@ button { padding:5px 10px; overflow:visible; }
 .now-volume{ top:5px; }
 .volume-wrap .volume-size-bg{ position:absolute; left:11px; top:4px; width:4px; height:48px; background:#ebeede; border-radius:2px; cursor:pointer; }
 .volume-wrap .volume-size-bg .volume-size-color{ height:48px; background:#3c3d37; }
-
-/*Ã¦â€™Â­Ã¦â€Â¾Ã¦â€“Â¹Ã¥Â¼Â*/
+ 
 .play-manner-wrap{ padding:5px 4px; width:18px; height:65px; }
 .list-cycle,
 .single-cycle,
@@ -287,8 +285,7 @@ cite{ display:block; }
 
 
 <!--播放器结束 } -->
-</body>
-</html>
+
 <script>
 var QueryString = function () {
   // This function is anonymous, is executed immediately and 
