@@ -29,8 +29,38 @@
                     "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
                 }
             ]
+        },
+        {
+            "albumName": "Goodbye Yellow Brick Road",
+            "albumCoverMax": "https://littleflute.github.io/Elton-John/Goodbye%20Yellow%20Brick%20Road/AlbumArt_%7BB4B07E43-FE58-4929-ADB7-92F2E215FBCD%7D_Large.jpg",
+            "albumSong": [
+                {
+                    "musicName": "Your Song",
+                    "musicSinger": "Elton John",
+                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01 Your Song.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                },
+                {
+                    "musicName": "I Need You to Turn To",
+                    "musicSinger": "Elton John",
+                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/02 I Need You to Turn To.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/01.lrc",
+                    "musicTime": "04:47",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                },
+                {
+                    "musicName": "I Need You to Turn To",
+                    "musicSinger": "Elton John",
+                    "musicLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/03 Take Me to the Pilot.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/03.lrc",
+                    "musicTime": "04:47",
+                    "albumCoverMin": "https://littleflute.github.io/Elton-John/Elton John/Elton John [Bonus Tracks]/AlbumArtSmall.jpg"
+                }
+            ]
         }
     ],
-    "songNum": 3,
+    "songNum": 2,
     "field": "value"
 }
