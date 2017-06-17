@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Captain Fantastic and the Brown Dirt Cowboy.mp3";		
+f[2]	= "02 Tower of Babel.mp3";		
+f[3]	= "03 Bitter Fingers.mp3";		
+f[4]	= "04 Tell Me When the Whistle Blows.mp3";		
+f[5]	= "05 Someone Saved My Life Tonight.mp3";		
+f[6]	= "06 (Gotta Get A) Meal Ticket.mp3";		
+f[7]	= "07 Better Off Dead.mp3";		
+f[8]	= "08 Writing.mp3";		
+f[9]	= "09 We All Fall in Love Sometimes.mp3";		
+f[10]	= "10 Curtains.mp3";		
+f[11]	= "11 Lucy in the Sky With Diamonds [-].mp3";		
+f[12]	= "12 One Day (At a Time) [-].mp3";		
+f[13]	= "13 Philadelphia Freedom [-].mp3";		
