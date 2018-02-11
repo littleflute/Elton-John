@@ -1,0 +1,27 @@
+{									
+    "title":"Captain Fantastic and the Brown Dirt Cowboy",							
+    "artist":"Elton John", 							
+    "url": "https://littleflute.github.io/Elton-John/Captain Fantastic and the Brown Dirt Cowboy/",				
+       "pic1":"AlbumArtSmall.jpg",					
+       "pic2":"AlbumArt_{C903D07E-D0A9-4EB8-93CB-0E9577E808EF}_Large.jpg",					
+       "pic3":"AlbumArt_{C903D07E-D0A9-4EB8-93CB-0E9577E808EF}_Small.jpg",					
+       "pic4":"Folder.jpg",					
+    "audioList":[							
+        "01 Captain Fantastic and the Brown Dirt Cowboy.mp3",						
+        "02 Tower of Babel.mp3",						
+        "03 Bitter Fingers.mp3",						
+        "04 Tell Me When the Whistle Blows.mp3",						
+        "05 Someone Saved My Life Tonight.mp3",						
+        "06 (Gotta Get A) Meal Ticket.mp3",						
+        "07 Better Off Dead.mp3",						
+        "08 Writing.mp3",						
+        "09 We All Fall in Love Sometimes.mp3",						
+        "10 Curtains.mp3",						
+        "11 Lucy in the Sky With Diamonds [-].mp3",						
+        "12 One Day (At a Time) [-].mp3",						
+        "13 Philadelphia Freedom [-].mp3",						
+    ],      							
+    "lrcList":[							
+        "l01_Elton John - Captain Fantastic and the Brown Dirt Cowboy.lrc",						
+    ]      							
+}									
